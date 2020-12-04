@@ -94,7 +94,7 @@ Of course, you still need to test the entire system in an end-to-end manner with
 
 ## With a Real Router
 
-Now we have seen how to use am ock router, let's take a look at what is involved when using the real Vue Router. We will look at a test for a blogging application that uses Vue Router. The posts are listed on the `/posts` route. The components are as follows:
+Now we have seen how to use a mock router, let's take a look at what is involved when using the real Vue Router. We will look at a test for a blogging application that uses Vue Router. The posts are listed on the `/posts` route. The components are as follows:
 
 ```js
 const App = {
